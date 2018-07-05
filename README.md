@@ -14,6 +14,7 @@ This is a **repo** for *live* demo
 2.listItem 2
 2.listItem 3
 
+|header 1|header2|
 |:---:|---:|
 |row1 col 1| row 1 col2|
 |row2 col 1| row 2 col2|
